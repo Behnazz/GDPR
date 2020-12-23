@@ -7,7 +7,7 @@ Before you start you need to run:
 
 - #### `npm install`
 
-to install all the dependency.
+to install all dependencies.
 
 To run the app use:
 
